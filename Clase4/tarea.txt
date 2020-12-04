@@ -1,0 +1,2 @@
+1-Tarea 1: Programa que calcule la formula general e imprima los 2 valores de X (librería MATH)
+
