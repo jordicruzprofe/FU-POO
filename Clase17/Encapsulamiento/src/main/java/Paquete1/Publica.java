@@ -1,0 +1,19 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package Paquete1;
+
+/**
+ *
+ * @author desarrollo2dpw
+ */
+public class Publica {
+    public String publico;
+    
+    public void metodoPublico(){
+        System.out.println("Soy un metodo publico");
+    }
+    
+}
